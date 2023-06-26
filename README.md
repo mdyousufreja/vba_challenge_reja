@@ -7,21 +7,21 @@ You are well on your way to becoming a programmer and Excel expert! In this home
 
 **Before You Begin**
 
-1. Created a new repository for this project called VBA-challenge. 
+1. Created a new repository for this project called **VBA-challenge**. 
 
-2. Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
+2. Inside the new repository that I just created, added the solution VBA file and Xlms files that I used for this assignment. 
 
 **Files**
 
 
-Download the following files to help you get started:
+Downloaded the following files to get started:
 
 Module 2 Challenge [files](https://courses.bootcampspot.com/courses/3819/assignments/56657?module_item_id=999387)
 
 **Instructions**
 
 
-Create a script that loops through all the stocks for one year and outputs the following information:
+Created a script that loops through all the stocks for one year and outputs the following information:
 
 - The ticker symbol
 
@@ -29,10 +29,12 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 - The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-- The total stock volume of the stock. The result should match the following image:
+- The total stock volume of the stock. The images of the results:
 
-- Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
-- Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
+- Add functionality to my script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The images of the results:
+
+  
+- Made the appropriate adjustments to my VBA script to enable it to run on every worksheet (that is, every year) at once.
 
 **NOTE**
 
