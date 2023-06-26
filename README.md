@@ -16,7 +16,7 @@ You are well on your way to becoming a programmer and Excel expert! In this home
 
 Download the following files to help you get started:
 
-Module 2 Challenge filesLinks to an external site.
+Module 2 Challenge [files](https://courses.bootcampspot.com/courses/3819/assignments/56657?module_item_id=999387)
 
 **Instructions**
 
