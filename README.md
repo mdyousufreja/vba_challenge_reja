@@ -38,7 +38,7 @@ Created a script that loops through all the stocks for one year and outputs the 
 
 **Resources Used to Do this Homework**
 
-[WorksheetFunction1](https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max)
+[WorksheetFunction1]([https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max](https://www.excel-learn.com/vba-max-function/))
 [WorksheetFunction2](https://learn.microsoft.com/en-us/office/vba/api/Excel.WorksheetFunction.Match)
 
 **NOTE**
