@@ -36,9 +36,10 @@ Created a script that loops through all the stocks for one year and outputs the 
   
 - Made the appropriate adjustments to my VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-**Resources Used to do this Homework**
+**Resources Used to Do this Homework**
 
-[WorksheetFunction](https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max)
+[WorksheetFunction1](https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max)
+[WorksheetFunction2](https://learn.microsoft.com/en-us/office/vba/api/Excel.WorksheetFunction.Match)
 
 **NOTE**
 
