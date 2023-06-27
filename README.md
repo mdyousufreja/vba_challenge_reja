@@ -35,6 +35,8 @@ Created a script that loops through all the stocks for one year and outputs the 
 
 - Add functionality to my script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The images of the results:
 
+![alt text](https://github.com/mdyousufreja/vba_challenge_reja/blob/main/image2.JPG)
+
   
 - Made the appropriate adjustments to my VBA script to enable it to run on every worksheet (that is, every year) at once.
 
