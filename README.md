@@ -31,6 +31,8 @@ Created a script that loops through all the stocks for one year and outputs the 
 
 - The total stock volume of the stock. The images of the results:
 
+![alt text](https://github.com/mdyousufreja/vba_challenge_reja/blob/main/image1.JPG)
+
 - Add functionality to my script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The images of the results:
 
   
